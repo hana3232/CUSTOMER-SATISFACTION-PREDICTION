@@ -8,14 +8,23 @@ Customer satisfaction is crucial for businesses to improve their support service
 The project was completed through the Unified Mentor platform and follows a structured approach for end-to-end machine learning model development.
 
 Table of Contents
+
 Dataset Description
+
 Project Workflow
+
 Tools and Technologies
+
 Setup Instructions
+
 Results and Insights
+
 Future Enhancements
+
 Contact
+
 Dataset Description
+
 The dataset includes customer support tickets for various tech products. It provides information about:
 
 Customer details (e.g., age, gender, email)
@@ -90,6 +99,8 @@ Contact
 If you have any questions or suggestions, feel free to reach out!
 
 Name: HANA M
+
 Email: hanarbeek2603@gmail.com
+
 LinkedIn: www.linkedin.com/in/hana-mohamed-she-her-509a06249    
 
