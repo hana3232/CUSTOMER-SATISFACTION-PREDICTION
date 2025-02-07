@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for the Customer Satisfaction Prediction project, which aims to predict customer satisfaction ratings using machine learning models based on historical customer support ticket data.
 
-**Project Overview:**
+**Project Overview**
 
           Customer satisfaction is crucial for businesses to improve their support services and retain customers. In this project, we analyze customer support tickets and build machine learning models to predict satisfaction ratings. This predictive model can help businesses proactively address potential issues and improve overall customer experience.The project was completed through the Unified Mentor platform and follows a structured approach for end-to-end machine learning model development.
 
